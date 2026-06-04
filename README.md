@@ -31,7 +31,7 @@ I'm open to remote positions (full-time or contract) and on-site opportunities w
 Languages
 
 Arabic — Native
-French — Fluent
+French — good level
 English — Good level (reading, writing, communication)
 
 
