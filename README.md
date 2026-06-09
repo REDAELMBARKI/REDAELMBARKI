@@ -17,7 +17,7 @@ Laravel, Inertia.js, Blade, Filament — comfortable with both API-based and cla
 Backend
 Laravel (PHP), ASP.NET Core (C#), Node.js / Express
 DevOps & Infrastructure
-Docker, Nginx, RabbitMQ, Redis, Azure
+Docker, Nginx, RabbitMQ, Redis, Azure  , aws
 Databases
 MySQL, SQLite, SQL Server
 Architecture & Principles
