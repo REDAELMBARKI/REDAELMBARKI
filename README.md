@@ -24,16 +24,16 @@ I am a highly driven **Full Stack Developer** with years of self-motivated learn
 
 ## 🛠️ Technical Stack & Skills
 
-### ⚙️ Backend Engineering & Frameworks
+### ⚙️ Backend Frameworks
 * **Laravel Ecosystem:** Advanced Laravel (PHP), Inertia.js, Blade templating, Filament PHP administration panels.
 * **Asynchronous & Real-Time Architecture:** Heavy use of backend **Queues** for job processing and workload management, alongside event **Broadcasting** for real-time live data streaming.
 * **Automated Testing:** Dedicated to code stability using **PHPUnit** for comprehensive unit and feature testing.
-* **Core Runtimes & Server Frameworks:** ASP.NET Core (C#) for robust enterprise backends, Node.js, Express.js.
+* **Core Runtimes & Server Frameworks:** ASP.NET Core , Node.js, Express.js.
 * **Architectural Approaches:** Decoupled **API-driven backend development** as well as monolithic server-side rendering (SSR).
 
-### 💻 Frontend Engineering
+### 💻 Frontend 
 * **Advanced Native JavaScript (ES6+):** Deep engineering knowledge of core runtime behaviors, including **Closures**, scope chains, the event loop, and **First-Class Functions** (passing functions as arguments, callback patterns for parent-child communication, and event delegation).
-* **Frameworks & Core:** React.js, TypeScript, Vite, JavaScript, HTML5, CSS3.
+* **Frameworks & Core:** React.js, TypeScript, Vite, JavaScript .
 * **State Management:** Complex global state architectures leveraging **Redux Toolkit (RTK)** or React Context API.
 * **Performance Optimization:** Advanced rendering control via `useMemo`, `useCallback`, and native React Hooks.
 * **Clean Code Practices:** Custom React hooks engineered for modular encapsulation and strict **Separation of Concerns (SoC)**.
