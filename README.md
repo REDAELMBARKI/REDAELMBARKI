@@ -24,12 +24,12 @@ I am a highly driven **Full Stack Developer** with years of self-motivated learn
 
 ## 🛠️ Technical Stack & Skills
 
-### ⚙️ Backend Frameworks
-* **Laravel Ecosystem:** Advanced Laravel (PHP), Inertia.js, Blade templating, Filament PHP administration panels.
-* **Asynchronous & Real-Time Architecture:** Heavy use of backend **Queues** for job processing and workload management, alongside event **Broadcasting** for real-time live data streaming.
-* **Automated Testing:** Dedicated to code stability using **PHPUnit** for comprehensive unit and feature testing.
-* **Core Runtimes & Server Frameworks:** ASP.NET Core , Node.js, Express.js.
-* **Architectural Approaches:** Decoupled **API-driven backend development** as well as monolithic server-side rendering (SSR).
+### ⚙️ Backend Frameworks 
+ * **Laravel Ecosystem:** Advanced Laravel (PHP), Inertia.js, Blade templating, Filament PHP administration panels. 
+ * **Asynchronous & Real-Time Architecture:** Heavy use of backend **Queues** for job processing and workload management, alongside event **Broadcasting** for real-time live data streaming. 
+ * **Automated Testing:** Dedicated to code stability using **PHPUnit** for comprehensive unit and feature testing. 
+ * **Core Runtimes & Server Frameworks:** ASP.NET Core (with Domain-Driven Design (DDD) architecture), Node.js, Express.js. 
+ * **Architectural Approaches:** Decoupled **API-driven backend development** as well as monolithic server-side rendering (SSR), including **Domain-Driven Design (DDD)** with clear separation of Domain, Application, Infrastructure, and API layers, using encapsulation, value objects, domain events, and repository patterns.
 
 ### 💻 Frontend 
 * **Advanced Native JavaScript (ES6+):** Deep engineering knowledge of core runtime behaviors, including **Closures**, scope chains, the event loop, and **First-Class Functions** (passing functions as arguments, callback patterns for parent-child communication, and event delegation).
